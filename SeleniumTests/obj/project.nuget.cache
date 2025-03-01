@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "TQYsLsMOU7g=",
+  "success": true,
+  "projectFilePath": "D:\\Testing\\PDEA\\Selenium101_automation\\SeleniumTests\\SeleniumTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RC\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\microsoft.codecoverage\\17.7.0\\microsoft.codecoverage.17.7.0.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.0\\microsoft.net.test.sdk.17.7.0.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.5.3\\microsoft.testing.extensions.telemetry.1.5.3.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.5.3\\microsoft.testing.extensions.trxreport.abstractions.1.5.3.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.5.3\\microsoft.testing.extensions.vstestbridge.1.5.3.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\microsoft.testing.platform\\1.5.3\\microsoft.testing.platform.1.5.3.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.5.3\\microsoft.testing.platform.msbuild.1.5.3.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.12.0\\microsoft.testplatform.objectmodel.17.12.0.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\microsoft.testplatform.testhost\\17.7.0\\microsoft.testplatform.testhost.17.7.0.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\nunit3testadapter\\5.0.0\\nunit3testadapter.5.0.0.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\selenium.support\\4.29.0\\selenium.support.4.29.0.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\selenium.webdriver\\4.29.0\\selenium.webdriver.4.29.0.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\selenium.webdriver.chromedriver\\133.0.6943.14100\\selenium.webdriver.chromedriver.133.0.6943.14100.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.15.0.4\\selenium.webdriver.geckodriver.0.15.0.4.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\selenium.webdriver.iedriver\\4.14.0\\selenium.webdriver.iedriver.4.14.0.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\selenium.webdriver.msedgedriver\\133.0.3065.82\\selenium.webdriver.msedgedriver.133.0.3065.82.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
