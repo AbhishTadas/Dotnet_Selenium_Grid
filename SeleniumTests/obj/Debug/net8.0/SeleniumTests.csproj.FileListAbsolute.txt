@@ -160,3 +160,4 @@ D:\Testing\PDEA\Selenium101_automation\SeleniumTests\bin\Debug\net8.0\zh-Hant\Mi
 D:\Testing\PDEA\Selenium101_automation\SeleniumTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 D:\Testing\PDEA\Selenium101_automation\SeleniumTests\obj\Debug\net8.0\Selenium.65C3BE7E.Up2Date
 D:\Testing\PDEA\Selenium101_automation\SeleniumTests\obj\Debug\net8.0\SeleniumTests.genruntimeconfig.cache
+D:\Testing\PDEA\Selenium101_automation\SeleniumTests\obj\Debug\net8.0\SeleniumTests.sourcelink.json
