@@ -6,7 +6,7 @@ This project demonstrates the use of Selenium WebDriver with NUnit for automated
 
 - .NET 8 SDK
 - Git
-- Gitpod account: 
+- Gitpod account: https://abhishtadas-dotnetselen-1u9009rcer6.ws-us118.gitpod.io/
 
 ## Environment Variables
 
